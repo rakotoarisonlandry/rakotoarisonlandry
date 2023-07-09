@@ -25,8 +25,11 @@ I have worked on various web projects and continue to learn and develop my skill
 <a href="https://www.javascript.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;"/>
 </a>
+<a href="https://www.javascript.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;"/>
+</a>
 <a href="https://www.typescriptlang.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70" style="display:inline-block;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
 ### Frameworks an libraries
