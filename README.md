@@ -1,12 +1,13 @@
 # Rakotoarison Tsaraefadahy Landry Brigea
 
-# Hi , I am Landry 👋 
-I'm a **professional web developer** with a passion for building user-friendly applications.
+# Salut , je m'appelle Landry  👋   
 
+**je suis un développeur** 
+<!-- 
 # Portfolio
-Check out my **[portfolio](https://portfolio-ismael.onrender.com)**.
+Check out my **[portfolio](https://portfolio-ismael.onrender.com)**. -->
 
-# 🥇 Skills
+# **Mes Competences en tant que developpeur**
 I am a highly dynamic and organized individual who can work effectively both independently and as a part of a team.\
 I am always willing to adapt to new situations and challenges.\
 I have worked on various web projects and continue to learn and develop my skills.
@@ -21,9 +22,6 @@ I have worked on various web projects and continue to learn and develop my skill
 </a>
 <a href="https://ww">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" style="display:inline-block;" />
-</a>
-<a href="https://www.javascript.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;"/>
 </a>
 <a href="https://www.javascript.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;"/>
@@ -83,13 +81,6 @@ I have worked on various web projects and continue to learn and develop my skill
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
-# Achievements
-## Hackerrank badges
-![Hackerrank badges of ismaelrakotondr1](https://hackerrank-badge.onrender.com/api/v1/badges/ismaelrakotondr1)
-
-# 📊 Statistics
-![github streak of Ismael-Rakotondrazaka](http://github-readme-streak-stats.herokuapp.com?user=Ismael-Rakotondrazaka&fire=41e2ba&ring=41e2ba&currStreakLabel=fff&background=0886ef&stroke=fff&currStreakNum=fff&sideNums=fff&dates=fff&sideLabels=fff)
-
 # 📞 How to reach me
 Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
 
@@ -97,8 +88,8 @@ Please feel free to reach out to me if you have any questions or would like to c
 <ul style="display:flex;flex-direction:column;gap:1rem;">
     <li style="display:block;">
         <a href="https://www.linkedin.com/in/ismael-rakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
-            <span>https://www.linkedin.com/in/ismael-rakotondrazaka</span>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="30" height="30" />
+            <span>https://www.linkedin.com/in/rakotorison-landry-224578265</span>
         </a>
     </li>
     <li style="display:block;">
