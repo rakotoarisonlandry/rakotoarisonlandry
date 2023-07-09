@@ -1,9 +1,8 @@
-<div> <h1 style="background: linear-gradient(to right, #F38592, #38B4D0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight:semi-bold" > Rakotoarison Tsaraefadahy Landry Brigea</h1> 
+<div> <h1 style=`background: linear-gradient(to right, #F38592, #38B4D0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight:semi-bold` > Rakotoarison Tsaraefadahy Landry Brigea</h1> 
 
 # <span> Salut 👋 , je m'appelle<span style =" Font-weight:bold ;font-family:'Arial',sans serif ;background: linear-gradient(to right, #F38592, #38B4D0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight:bold ; padding-left :15px" >Landry</span></span>
 
 **Je suis un <span style="text-decoration:Underline;background: linear-gradient(to right, #38B4D0, #F38592); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight:bold ; padding-left :15px">Développeur</span>** 
-
 
 # **Voici mes competences en tant que developpeur**
 
