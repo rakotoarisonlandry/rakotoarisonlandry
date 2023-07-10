@@ -33,10 +33,10 @@
 <a href="https://vuejs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="display:inline-block; Padding-Right: 30px"/>
 </a>
+
 <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
 </a>
-
 <a href="https://laravel.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
 </a>
@@ -71,6 +71,10 @@
 ### **Mes Contacts**
 
 <ul style="display:flex;flex-direction:column;gap:1rem;">
+ <li style="display:block;">
+          <span style= "width:30px ;height:30px;">✉️ </span> 
+             rakotorisonlandry@gmail.com
+    </li>
     <li style="display:block;">
         <a href="https://www.linkedin.com/in/rakotorison-landry-224578265" style="display:flex;align-items:center;gap:1rem;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="30" height="30" />
