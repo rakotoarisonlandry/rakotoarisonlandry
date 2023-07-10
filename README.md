@@ -6,7 +6,7 @@
 
 # **Voici mes competences en tant que developpeur**
 
-### competence en programmation
+### competence en  programmation
 
 <a href="https://www.php.net">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" style="display:inline-block; Padding-Right: 70px" />
@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
 </a>
 
-### Frameworks an libraries
+### les frameworks et  librairies 
 <a href="https://nodejs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" style="display:inline-block;  Padding-Right: 30px"/>
 </a>
@@ -47,7 +47,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
-### DMS
+### Base de donnee
 <a href="https://www.mysql.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
@@ -58,7 +58,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
-### Tools & extras
+### les outils 
 <a href="https://git-scm.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
@@ -72,9 +72,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
-# 📞 How to reach me
-Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
-
 
 <ul style="display:flex;flex-direction:column;gap:1rem;">
     <li style="display:block;">
@@ -84,23 +81,14 @@ Please feel free to reach out to me if you have any questions or would like to c
         </a>
     </li>
     <li style="display:block;">
-        <a href="https://github.com/Ismael-Rakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
+        <a href="https://github.com/rakotoarisonlandry" style="display:flex;align-items:center;gap:1rem;color:white">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" />
-            <span>https://github.com/Ismael-Rakotondrazaka</span>
+            <span>https://github.com/rakotoarisonlandry</span>
         </a>
     </li>
     <li style="display:block;">
-        <a href="https://www.facebook.com/ismaelrakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" />
-            <span>https://www.facebook.com/ismaelrakotondrazaka</span>
-        </a>
-    </li>
-    <li style="display:block;">
-        <a href="https://www.hackerrank.com/ismaelrakotondr1" style="display:flex;align-items:center;gap:1rem;">
-            <img src="assets/images/logo-hackerrank.svg" width="30" height="30" />
-            <span>https://www.hackerrank.com/ismaelrakotondr1</span>
-        </a>
-    </li>
+            <span style = " padding-left:15px;text-align:center;color:white">Rakotoarison Landry</span>
 </ul>
 
 # ➕ More
