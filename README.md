@@ -13,11 +13,14 @@
 <a href="https://www.php.net">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" style="display:inline-block; Padding-Right: 70px" />
 </a>
-<a href="https://ww">
+<a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" style="display:inline-block;  Padding-Right: 70px" />
 </a>
-<a href="https://www.typescriptlang.org">
+<a href="https://www.java.com/fr/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
 </a>
 
 ### les frameworks et  librairies 
