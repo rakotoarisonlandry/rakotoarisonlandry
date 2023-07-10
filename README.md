@@ -77,7 +77,7 @@
     </li>
     <li style="display:block;">
         <a href="https://www.linkedin.com/in/rakotorison-landry-224578265" style="display:flex;align-items:center;gap:1rem;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="30" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="70" height="60" />
             <span>https://www.linkedin.com/in/rakotorison-landry-224578265</span>
         </a>
     </li>
