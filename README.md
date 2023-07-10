@@ -6,7 +6,7 @@
 
 # **Voici mes competences en tant que developpeur**
 
-### Programming languages
+### competence en programmation
 
 <a href="https://www.php.net">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" style="display:inline-block; Padding-Right: 70px" />
