@@ -10,9 +10,6 @@
 <a href="https://www.javascript.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;Padding-Right: 70px"/>
 </a>
-<a href="https://www.php.net">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" style="display:inline-block; Padding-Right: 70px" />
-</a>
 <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" style="display:inline-block;  Padding-Right: 70px" />
 </a>
@@ -27,18 +24,11 @@
 <a href="https://reactjs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
 </a>
-<a href="https://nodejs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" style="display:inline-block;  Padding-Right: 30px"/>
-</a>
 <a href="https://vuejs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="display:inline-block; Padding-Right: 30px"/>
 </a>
-
 <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
-</a>
-<a href="https://laravel.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
 </a>
 <a href="https://tailwindcss.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" style="display:inline-block;"/>
