@@ -10,15 +10,6 @@
 <a href="https://www.javascript.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;Padding-Right: 70px"/>
 </a>
-<a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" style="display:inline-block;  Padding-Right: 70px" />
-</a>
-<a href="https://www.java.com/fr/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" style="display:inline-block;Padding-Right: 30px"/>
-</a>
 
 ### les frameworks et  librairies 
 <a href="https://reactjs.org">
