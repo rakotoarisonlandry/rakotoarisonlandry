@@ -17,11 +17,11 @@
 </a>
 
 
-<a href="https://github.com/rakotoarisonlandry/rakotoarisonlandry" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://github.com/rakotoarisonlandry" target="_blank">
+<img src="./github.png" width=50 height=50 alt="rakotoarisonlandry" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/tsaraefadahy-landry-rakotoarison-224578265/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -29,7 +29,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" >
 </div>
 
 
