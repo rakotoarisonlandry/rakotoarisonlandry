@@ -27,11 +27,6 @@
 </div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" >
-</div>
-
 
 <!--Footer--> 
 <p align="center">
