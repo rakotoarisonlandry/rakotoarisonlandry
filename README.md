@@ -49,7 +49,7 @@
     <img src="./github.png" width=50 height=50 alt="rakotoarisonlandry" style="margin-bottom: 5px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/tsaraefadahy-landry-rakotoarison-224578265/" target="_blank">
+  <a href="https://www.linkedin.com/in/tsaraefadahy-landry-brigea-rakotoarison-224578265/" target="_blank">
     <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </div>
