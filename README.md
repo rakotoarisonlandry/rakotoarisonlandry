@@ -17,7 +17,7 @@
 <h2 align="center">Aʙᴏᴜᴛ Mᴇ</h2>
 
 <p align="center">
-  I'm a passionate developer with a love for building innovative solutions and solving complex problems. I thrive on challenges and enjoy turning ideas into reality through code. Whether it's front-end, back-end, or full-stack development, I'm always eager to learn and grow. Let's create something amazing together! 🚀
+  I'm a passionate developer with a love for building innovative solutions and solving complex problems. I thrive on challenges and enjoy turning ideas into reality through code. Whether it's front-end, back-end, or full-stack development, I'm always eager to learn and grow. Let's create something amazing together!
 </p>
 
 <br />
