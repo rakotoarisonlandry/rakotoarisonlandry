@@ -118,5 +118,5 @@ Développeur passionné basé à Madagascar 🇲🇬, j'aime transformer des id�
 </div>
 
 <div align="center">
-  <sub>Merci d'être passé sur mon profil — à bientôt pour un prochain projet !</sub>
+  <sub>Merci d'être passé sur mon profil , à bientôt pour un prochain projet !</sub>
 </div>
