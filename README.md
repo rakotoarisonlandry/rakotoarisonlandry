@@ -18,26 +18,19 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="65%" valign="top">
+<img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" align="right" width="300px"/>
 
 ## 👋 À propos de moi
 
 Développeur passionné basé à Madagascar 🇲🇬, j'aime transformer des idées en produits concrets, propres et performants. Curieux de nature, je navigue avec plaisir entre le **front-end**, le **back-end** et le **mobile**, toujours à la recherche de la meilleure façon de résoudre un problème.
 
-- Actuellement en train de perfectionner mes projets **full-stack**
-- En apprentissage continu sur de nouvelles technologies
-- Fan de code propre, d'architecture bien pensée et de bon design
-- Ce qui me motive : apprendre vite, construire mieux, partager davantage
-- Toujours ouvert à discuter d'un projet ou d'une opportunité
+- 🚀 Actuellement en train de perfectionner mes projets **full-stack**
+- 📚 En apprentissage continu sur de nouvelles technologies
+- 🧠 Fan de code propre, d'architecture bien pensée et de bon design
+- ⚡ Ce qui me motive : apprendre vite, construire mieux, partager davantage
+- 🤝 Toujours ouvert à discuter d'un projet ou d'une opportunité
 
-</td>
-<td width="35%" align="center">
-<img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="80%"/>
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 <br/>
 
