@@ -37,6 +37,7 @@ const landry = {
   role: "Full-Stack Developer",
 
   focus: [
+    "Intelligence Artificielle",
     "Web applications",
     "Mobile applications",
     "Product development",
